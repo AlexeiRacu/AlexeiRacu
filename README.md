@@ -2,9 +2,8 @@
 - 👀 I’m interested in C# and PostgreSQL
 - 🌱 I’m currently learning Npgsql framework
 - 💞️ I’m looking to collaborate on GOOOOGLE and MIIIIICROSOFT
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Dog
+- ⚡ Fun fact: I love dogs
 
 <!---
 AlexeiRacu/AlexeiRacu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
